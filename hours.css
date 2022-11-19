@@ -1,0 +1,20 @@
+body { 
+    background-color: rgb(29, 32, 32);       
+}
+
+div {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 200px;
+}    
+
+#txt {
+    color: rgb(242, 235, 224); 
+}
+
+#timer {
+    background-color: rgba(249, 66, 0, 0.096);
+    color: rgb(242, 235, 224);
+    font-size: 200px;
+    border-radius: 50px;
+}
